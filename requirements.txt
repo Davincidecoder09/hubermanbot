@@ -6,3 +6,4 @@ youtube-transcript-api
 pytube
 streamlit
 streamlit-chat
+pysqlite3
