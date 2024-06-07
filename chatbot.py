@@ -35,7 +35,7 @@ st.title("🌙 Fall Asleep Faster 😴")
 st.subheader("Tips and advice from Huberman's podcast to improve your sleep")
 
 # YouTube video URL
-youtube_url = "https://www.youtube.com/watch?v=0rp9PYP6lws&ab_channel=HubermanLabClips"
+youtube_url = "https://www.youtube.com/watch?v=_HQWOzOIG6I&ab_channel=HubermanLabClips"
 
 # Initialize the embedchain pipeline
 embedchain_pipeline = EmbedChainPipeline()
